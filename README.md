@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am a software engineer new grad in co-op from Concordia University, passionate about new upcoming technologies and building applications!  <br>
-I search for promising ideas to develop and bring it to the public. Feel free to leave me a message about 
+I search for promising ideas to develop and bring it to the public. Feel free to leave me a message about any interesting topics!
 
 ## Current Projects:
 🔭 I’m currently working on a Sports Management App<br>
