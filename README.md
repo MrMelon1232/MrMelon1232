@@ -3,7 +3,7 @@ I am a software engineer new grad in co-op from Concordia University, passionate
 I search for promising ideas to develop and bring it to the public. Feel free to leave me a message about any interesting topics!
 
 ## Current Projects:
-🔭 I’m currently working on a Sports Management App<br>
+🔭 I’m currently working on a AI Wellness and Focus App<br>
 🌱 I’m currently learning about machine learning and scaling systems for large applications.<br>
 
 ## 🌐 Socials:
